@@ -1,0 +1,8 @@
+for (line = 1; line <= 1; line++){
+    var char = ""
+    for (j = 0; j < 5; j++){
+     
+        char=char + " * "
+     }
+     console.log(char);
+}
